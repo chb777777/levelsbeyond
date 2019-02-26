@@ -1,9 +1,9 @@
-#Notes REST API
+# Notes REST API
 requires java 7 or newer
 
 run Api.java
 
-#end Points
+# end Points
 
 ```
 post("/notes") -- to add a note
