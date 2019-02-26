@@ -4,9 +4,11 @@ requires java 7 or newer
 requires apache SPARK framework `https://spark.apache.org/downloads.html`
 
 install via brew
+`brew cask install java`
 `brew install apache-spark`
 
 run Api.java
+`java Api.java`
 
 # API end Points
 
