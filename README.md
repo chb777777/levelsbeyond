@@ -3,9 +3,12 @@ requires java 7 or newer
 
 requires SPARK `https://spark.apache.org/downloads.html`
 
+install via brew
+`brew install apache-spark`
+
 run Api.java
 
-# end Points
+# API end Points
 
 ```
 post("/notes") -- to add a note
