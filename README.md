@@ -1,7 +1,7 @@
 # Notes REST API
 requires java 7 or newer
 
-requires SPARK `https://spark.apache.org/downloads.html`
+requires apache SPARK framework `https://spark.apache.org/downloads.html`
 
 install via brew
 `brew install apache-spark`
