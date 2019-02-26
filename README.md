@@ -1,5 +1,6 @@
 # Notes REST API
 requires java 7 or newer
+requires SPARK `https://spark.apache.org/downloads.html`
 
 run Api.java
 
