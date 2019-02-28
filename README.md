@@ -1,14 +1,16 @@
 # Notes REST API
 requires java 7 or newer
-
+requires Java Maven Framework `https://maven.apache.org/what-is-maven.html`
 requires apache SPARK framework `https://spark.apache.org/downloads.html`
 
 install via brew
 `brew cask install java`
 `brew install apache-spark`
+`brew install maven`
 
-run Api.java
-`java Api.java`
+In project main folder
+install all project dependencies `maven install`
+run Api.java `java Api.java`
 
 # API end Points
 
